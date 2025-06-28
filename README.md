@@ -52,6 +52,4 @@ These models were trained and tested under two scenarios:
 
 ## Repository Structure
   - data/: Contains the dataset or instructions for downloading it.
-  - notebooks/: Jupyter notebooks that document the exploratory data analysis (EDA), model training, evaluation, and experiments with imbalance handling techniques.
-  - src/: Source code for data preprocessing, model training, and evaluation scripts.
   - README.md: This file with an overview of the project.
